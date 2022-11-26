@@ -1,0 +1,158 @@
+id,name,city,state,short_name,htc_id
+1000,SUNY Upstate Medical University-Adult Program,,NY,SUNY,57
+1001,Christiana Care Health System,,DE,Christiana,141
+1002,Children's Hospital of Philadelphia Speciality Center,,PA,Children's,152
+1003,Children's Hospital of Philadelphia (CHOP),Philadelphia,PA,CHOP,28
+1004,SUNY Upstate Medical University-Pediatric Program,Syracuse,NY,SUNY,58
+1005,University of Virginia - Adult Program,,VA,University,154
+1006,"TC Thompson's, Chattanooga",Chattanooga,TN,TC,9999
+1007,"Children's Hospital, Omaha",Omaha,NE,Children's,9999
+1008,"UCLA Harbor, Torrance, CA",Torrance,CA,UCLA,9999
+1009,Vermont Regional Hemophilia Center,Burlington,VT,Vermont,8
+1010,Children's National Hemophilia Center,Washington,DC,Children's,131
+1011,Children's Hospital of the King's Daughters,Norfolk,VA,CHKD,138
+1012,Wake Forest University Health Sciences,Winston-Salem,NC,Wake,251
+1013,Hemophilia Clinic - West Michigan Cancer Center,Kalamazoo,MI,WMCC,428
+1014,DeVos Children's Coagulation Disorders Program,Grand Rapids,MI,DeVos,430
+1015,Ohio State University Medical Center Hemophilia Treatment Center,Columbus,OH,Ohio,432
+1016,University Hospitals Health System Cleveland,Cleveland,OH,University,443
+1017,Karmanos Cancer Center/Detroit Receiving Hospital and University Medical Center /Comprehensive Center for Bleeding Disorders and Thrombosis,Detroit,MI,Detroit,445
+1018,UWHC Comprehensive Program for Bleeding Disorders,Madison ,WI,UWHC ,567
+1019,Rush University Medical Center,,IL,Rush,569
+1020,Hemophilia Treatment Center - Adult Program Saint Louis University,Saint Louis,MO,Hemophilia,735
+1021,University of New Mexico Ted R. Montoya Hemophilia & Thrombosis Program,Albuquerque,NM,UNM,802
+1022,LPCH/Stanford University HTC,Palo Alto,CA,Stanford,844
+1023,Hershey Medical Center Thrombosis - Thrombophilia,Hershey,PA,Hershey,144
+1024,University of Mississippi Medical Center,Jackson,MS,UMC,343
+1025,"Mary M. Gooley Hemophilia Center, Inc.",Rochester,NY,HTC,56
+1026,Pediatric Hematology Program University of Virginia,Charlottesville,VA,UVA,135
+1027,Cardeza Foundation Hemophilia and Thrombosis Center,Phila,PA,Cardeza,139
+1028,Lehigh Valley Hospital,Bethlehem,PA,Lehigh,145
+1029,Charleston Area Medical Center,Charleston,WV,Charleston,149
+1030,Children's Mercy Hospital - Kansas City,Kansas City,MO,KC HTC,733
+1031,Eastern Michigan Hemophilia Treatment Center Hurley Medical Center,Flint,MI,Eastern,429
+1032,Nationwide Children's Hospital Columbus,Columbus,OH,NCH,436
+1033,Ann & Robert H. Lurie Children's Hospital of Chicago,Chicago,IL,Lurie,555
+1034,"Comprehensive Center for Bleeding Disorders, Milwaukee",Wauwatosa,WI,CCBD,574
+1035,Arizona Hemophilia and Thrombosis Center / University of Arizona Health Sciences Center,Tucson,AZ,Arizona,804
+1036,Kapiolani Medical Center for Women and Children,Honolulu,HI,Kapiolani,848
+1037,Rady Children's Hospital San Diego,San Diego,CA,Rady,854
+1038,Guam Comprehensive Hemophilia Care Program,Mangilao,GU,Guam,861
+1039,The Hemophilia Center at Oregon Health & Science University,Portland,OR,Oregon,932
+1040,St. Luke's Hemophilia Center,Boise,ID,Idaho,934
+1041,Providence Sacred Heart Medical Center and Children's Hospital,Spokane,WA,Sacred Heart,936
+1042,Washington University Center in St. Louis - Pediatric Program,St Louis,MO,Wash U Peds,738
+1043,University of Louisville Hemophilia Treatment Center,Louisville,KY,U of L HTC,254
+1044,Norton Kosair Children's Medical Center,Louisville,KY,Norton,252
+1045,Alaska Hemophilia Treatment Center,Anchorage,AK,Alaska,933
+1046,Children's Hospital of Michigan Hemostasis and Thrombosis Center,Detroit,MI,Children's,21
+1047,Georgetown University,Washington,DC,Georgetown,132
+1048,University of Miami Comprehensive Hemophilia Treatment Center,Miami,FL,U.M. HTC,335
+1049,Augusta University- Pediatric Hemophilia Treatment Center,Augusta,GA,Georgia,357
+1050,West Michigan Pediatric at Bronson,Kalamazoo,MI,West,427
+1051,Gundersen Health System,LaCrosse,WI,Gundersen,565
+1052,Gulf States Hemophilia and Thrombophilia Center,Houston,TX,GSHTC,671
+1053,University of Missouri Health Care Hemophilia Treatment Center,Columbia,MO,University,736
+1054,Childrens Hospital Los Angeles,Los Angeles,CA,CHLA,841
+1055,Nebraska Regional Hemophilia Treatment Center,Omaha,NE,Nebraska,739
+1056,North Texas Hemophilia and Thrombosis Program - Pediatric Program / Center for Cancer & Blood Disorders,Dallas,TX,North,680
+1057,University of Alabama Birmingham,Birmingham,AL,UAB,346
+1058,Maine Hemophilia and Thrombosis Center,Scarborough,ME,Maine,4
+1059,Montefiore Medical Center,Bronx,NY,Montefiore,64
+1060,Texas Children's Hemophilia & Thrombosis Center/Baylor College of Medicine,Houston,TX,Texas,682
+1061,The John Bouhasin Center for Children with Bleeding Disorders,Saint Louis,MO,John Bouhasi,734
+1062,Arizona Hemophilia and Thrombosis Treatment Center at Phoenix Children's Hospital,Phoenix,AZ,HTC @ PCH,806
+1063,Hemophilia Treatment Center of Nevada,Las Vegas,NV,HTC of NV,863
+1064,Nadeene Brunini Comprehensive Hemophilia Care Center / St. Michael's Medical Center,Newark,NJ,BRI,55
+1065,Mount Sinai Regional Comprehensive Hemophilia Treatment Center,new york,NY,MSSM,63
+1066,John Hopkins All Children's Hospital,St. Petersburg,FL,JHACH,358
+1067,Henry Ford Health System Bleeding and Thrombosis Treatment Center,Detroit,MI,Henry Ford,424
+1068,"Cincinnati Children's Hospital Medical Center, Hemophilia & Thrombosis Center",Cincinnati,OH,CCHMC,433
+1069,University of Michigan Hemophilia and Coagulation Disorders,Ann Arbor,MI,UM HTC,446
+1070,South Dakota Center for Blood Disorders,Sioux Falls,SD,South,573
+1071,South Texas Comprehensive Hemophilia and Thrombophilia Treatment Center,San Antonio,TX,South,679
+1072,Oklahoma Center for Bleeding & Clotting Disorders,Oklahoma City,OK,Oklahoma,676
+1073,Orthopaedic Institute for Children HTC,Los Angeles,CA,OHTC,853
+1074,Brody School of Medicine at East Carolina University,Greenville,NC,ECU,256
+1075,City of Hope Medical Center,Duarte,CA,COHMC,858
+1076,Valley Children’s Hospital,Madera,CA,Valley,862
+1077,Washington University Center in St. Louis - Adult Program,St Louis,MO,Wash U Adult,737
+1080,Boston Hemophilia Center- Brigham and Women's Hospital (HTC013),Boston,MA,OLD HTC13,
+1082,Dartmouth-Hitchcock Comprehensive Hemophilia and Thrombosis Center,LEBANON,NH,Dartmouth,6
+1083,University of Puerto Rico Hemophilia Treatment Center,San Juan,PR,UPR HTC,53
+1084,"Rutgers, Robert Wood Johnson Medical School",New Brunswick,NJ,Rutgers,54
+1085,East Tennessee Comprehensive Hemophilia Center,Knoxville,TN,East,259
+1086,Hemophilia of Georgia,Atlanta,GA,HoG,331
+1087,Arnold Palmer Hospital for Children - The Haley Center for Children’s Cancer and Blood Disorders,Orlando,FL,Palmer,360
+1088,Hemophilia Outreach Center Green Bay,Green Bay,WI,Green Bay,564
+1089,"LCMC Children's Hospital, New Orleans",New Orleans,LA,CHNOLA,683
+1090,Stroger Hospital of Cook County - Adults,,IL,Stroger,554
+1091,Bleeding and Clotting Disorders Institute,Peoria,IL,BCDI,557
+1092,Stroger Hospital of Cook County - Pediatrics,Chicago,IL,Stroger,575
+1093,New England Hemophilia Center/UMassMemorial Hospital,Worcester,MA,NEHC,1
+1094,Yale Hemophilia Center,New Haven,CT,Yale,2
+1095,Massachusetts General Hospital Comprehensive Hemophilia and Thrombosis Treatment Center,Boston,MA,MGHTC,14
+1096,University of Cincinnati Medical Center Hemophilia Treatment Center,Cincinnati,OH,University,434
+1097,Hemophilia Center of Central Pennsylvania  / Penn State Milton S. Hershey Medical Center,Hershey,PA,Hershey,143
+1098,University of Kentucky Hemophilia Treatment Center,Lexington,KY,UKHTC,255
+1099,Dayton Children's Hemostasis and Thrombosis Center,Dayton,OH,Dayton,439
+1100,"Comprehensive Hemophilia Treatment Center, University of North Carolina at Chapel Hill",Chapel Hill,NC,UNC,262
+1101,Mayo Comprehensive Hemophilia Center,Rochester,MN,Mayo HTC,560
+1102,University of Tennessee - Memphis,Memphis,TN,UTHSC,258
+1103,Hemophilia of Georgia Center for Bleeding & Clotting Disorders of Emory,Atlanta,GA,Emory-CHOA,353
+1104,Akron Children's Hospital - Showers Center for Cancer & Blood Disorders,Akron,OH,Akron Childr,444
+1105,Central Virginia Center for Coagulation Disorders / Virginia Commonwealth University,Richmond,VA,VCU,137
+1106,Augusta University -  Center for Blood Disorders,Augusta,GA,Augusta,341
+1107,West Virginia University Medical Center Hemophilia Treatment Center,Morgantown,WV,WVU Medicine,147
+1108,Vanderbilt University Medical Center,Nashville,TN,Vanderbilt,260
+1109,Penn Comprehensive Hemophilia and Thrombophilia Program/Hospital of the University of Pennsylvania,Philadelphia,PA,PCHP,153
+1110,Hemophilia Center of Western Pennsylvania,Pittsburgh,PA,HCWP,146
+1111,"Center for Bleeding and Clotting Disorders, M Health",Minneapolis,MN,U of M,559
+1112,University of Florida Hemophilia Treatment Center,Gainesville,FL,U of Florida,336
+1113,"University of California, San Francisco  Hemophilia & Thrombosis Center",San Francisco,CA,UCSF,852
+1114,St. Christopher's Hospital for Children,Philadelphia,PA,SCHC,150
+1115,Children’s Blood and Cancer Center of Central Texas,Austin,TX,Austin,684
+1116,"Louisiana Center for Bleeding and Clotting Disorders, Tulane University",New Orleans,LA,HTC of N. O.,674
+1117,Newark Beth Israel Medical Center - Hemophilia Center,Newark,NJ,Newark,70
+1118,Iowa Hemophilia and Thrombosis Center,Iowa City,IA,IHTC,731
+1119,Weill Cornell Medical College - New York Presbyterian Hospital,New York,NY,Cornell,52
+1120,Northwest Ohio Hemophilia Treatment Center at the Toledo Hospital,Toledo,OH,NWO HTC,437
+1121,St. Jude Children's Research Hospital,Memphis,TN,St. Jude,261
+1122,Rhode Island Hospital Hemostasis and Thrombosis Center,Providence,RI,RI Hospital,7
+1123,Northwestern Center for Bleeding Disorders,Chicago,IL,Northwestern,553
+1124,Hemostasis and Thrombosis Center of Nevada,Reno,NV,HTVNV,865
+1125,Nemours Children's Clinic of Jacksonville  / The Nemours Foundation,Jacksonville,FL,Nemours,333
+1126,St. Joseph's Hospital Center for Bleeding & Clotting Disorders,Tampa,FL,SJH HTC,348
+1127,Utah Center for Bleeding and Clotting Disorders,Salt Lake City,UT,UCBCD,807
+1128,Arkansas Center for Bleeding Disorders,Little Rock,AR,Arkansas,675
+1129,Kidz Medical Services,Coral Gables,FL,Coral Gables,361
+1130,Northern Regional Bleeding Disorder Center at Munson Medical Center,Traverse City,MI,NRBDC,426
+1131,Indiana Hemophilia and Thrombosis Center,Indianapolis,IN,IHTC,440
+1132,Mississippi Center for Advanced Medicine,Madison,MS,MCAM,362
+1133,"Bloodworks, Washington Center for Bleeding Disorders",Seattle,WA,WACBD,931
+1134,Albany Regional Hemophilia & von Willebrand Treatment Center,Albany,NY,Albany,60
+1135,St. Jude Affiliate Clinic at Novant Health Hemby Children’s Hospital,Charlotte,NC,St. Jude HTC,253
+1136,Seattle Children's Hospital and Regional Medical Center,Seattle,WA,Seattle,930
+1137,Children's Hospitals & Clinics of Minnesota,Minneapolis,MN,Children's,558
+1138,Delaware Hemophilia Treatment Center,Wilmington,DE,Delaware,133
+1139,University of Colorado Denver Hemophilia and Thrombosis Center,Aurora,CO,UCD-HTC,801
+1140,Hemophilia Treatment Center of Levine Cancer Institute and Levine Children's Hospital,Charlotte,NC,HTC Levine,249
+1141,University of California at Davis Hemophilia Treatment Center,Sacramento,CA,University,850
+1142,North Texas Comprehensive Hemophilia Treatment Center,Dallas,TX,NTH TX HTC,678
+1143,Boston Hemophilia Center at Boston Children's Hospital,Boston,MA,Boston,12
+1144,UCSF Benioff Children's Hospital Oakland,OAKLAND,CA,CHO,857
+1145,Children's Hospital @ Memorial University Medical Center,Savannah,GA,Children's,340
+1146,Johns Hopkins University Hemophilia Treatment Center,Baltimore,MD,Johns,151
+1147,Northwell Health Hemostasis and Thrombosis Center at Long Island Jewish and Cohen Children's Medical Center,New Hyde Park,NY,Northwell,62
+1148,Sanford Health Center for Bleeding and Clotting Disorders,Fargo,ND,North Dakota,562
+1149,Alaska Bleeding Disorder Clinic,Anchorage,AK,Alaska,938
+1150,University of Connecticut Health Center & Connecticut Children's Medical Center,Hartford,CT,UCONN & CCMC,10
+1151,University of Pittsburgh,Pittsburgh,PA,UPMC,1042
+1152,Duke University Health System,Durham,NC,Duke,1041
+1153,University of South Florida Adult Comprehensive Hemophilia Treatment Center,Tampa,FL,USF HTC,334
+1154,Center for Inherited Blood Disorders,Orange,CA,CIBD,855
+1155,Hemophilia & Thrombosis Treatment Center at UC San Diego Health,San Diego,CA,HTTC,842
+1156,Prisma Health Children's Hospital-Midlands,Columbia,SC,Prisma,257
+1157,Michigan State University Center for Bleeding Disorders & Clotting Disorders,East Lansing,MI,Michigan,442
+1158,Fort Worth Bleeding Disorders Program,Fort Worth,TX,Fort Worth,677
+1159,Western New York BloodCare,Buffalo,NY,Western NY,59
